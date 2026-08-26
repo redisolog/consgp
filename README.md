@@ -1,4 +1,4 @@
-СКАЧИВАЕНИЕ:[скачать здесь]([https://github.com/username/repo/releases/latest](https://github.com/redisolog/consgp/releases/tag/generator))
+СКАЧИВАЕНИЕ:  [скачать здесь](https://github.com/username/repo/releases/latest](https://github.com/redisolog/consgp/releases/tag/generator))
 
 
 
