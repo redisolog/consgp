@@ -1,3 +1,7 @@
+СКАЧИВАЕНИЕ:[скачать здесь]([https://github.com/username/repo/releases/latest](https://github.com/redisolog/consgp/releases/tag/generator))
+
+
+
 # «Поля»: руководство для новичка
 
 Этот проект — автономный редактор рукописных конспектов. Он сделан на React и запускается в оболочке Electron как обычная Windows-программа. Для работы готового `.exe` локальный сервер не нужен.
